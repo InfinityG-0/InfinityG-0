@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently enrolled in the Tech Elevator Full Stack Developer program
-I have 2.5 years of software development experience working with React and Angular
+I'm currently enrolled in the Tech Elevator Full Stack Developer program\
+I have 2.5 years of software development experience working with React and Angular\
 Looking forward to starting new projects and gaining more experience!
