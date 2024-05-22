@@ -20,8 +20,8 @@ I'm looking forward to starting new projects and gaining even more experience!
 [<img height="48px" width="48px" alt="Icon Bootstrap" src="https://skillicons.dev/icons?i=bootstrap"/>](https://getbootstrap.com/)
 [<img height="48px" width="48px" alt="Icon Sass" src="https://skillicons.dev/icons?i=sass"/>](https://sass-lang.com/)
 [<img height="48px" width="48px" alt="Icon Java" src="https://skillicons.dev/icons?i=java"/>](https://www.java.com/en/)
-[<img height="48px" width="48px" alt="Icon Spring" src="https://skillicons.dev/icons?i=spring"/>](https://www.postgresql.org/)
-[<img height="48px" width="48px" alt="Icon Postgres" src="https://skillicons.dev/icons?i=postgres"/>](https://spring.io/projects/spring-boot)
+[<img height="48px" width="48px" alt="Icon Spring" src="https://skillicons.dev/icons?i=spring"/>](https://spring.io/projects/spring-boot)
+[<img height="48px" width="48px" alt="Icon Postgres" src="https://skillicons.dev/icons?i=postgres"/>](https://www.postgresql.org/)
 
 ### Additional Skills:
 
@@ -41,7 +41,7 @@ I'm looking forward to starting new projects and gaining even more experience!
 ### Tools:
 
 [<img height="48px" width="48px" alt="Icon VS-Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com)
-[<img height="48px" width="48px" alt="Icon Git" src="https://skillicons.dev/icons?i=idea"/>](https://www.jetbrains.com/idea/)
+[<img height="48px" width="48px" alt="Icon Idea" src="https://skillicons.dev/icons?i=idea"/>](https://www.jetbrains.com/idea/)
 [<img height="48px" width="48px" alt="Icon Postman" src="https://skillicons.dev/icons?i=postman"/>](https://www.postman.com/)
 [<img height="48px" width="48px" alt="Icon Git" src="https://skillicons.dev/icons?i=git"/>](https://git-scm.com)
 
